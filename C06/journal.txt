@@ -1,3 +1,5 @@
 Commit log practice journal.
 
 Entry 1 â€” first commit created.
+
+Entry 2 — second commit added to build history.
