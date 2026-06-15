@@ -1,3 +1,3 @@
 # C11
 
-Conflict demo — initial version.
+Base version — both branches will modify this line.
