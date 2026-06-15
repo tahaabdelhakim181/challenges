@@ -1,3 +1,5 @@
 # C11
 
-Main branch updated the same line — conflict incoming.
+Conflict resolved — sidebar content integrated into main.
+
+Changes from both branches were reviewed and merged manually.
