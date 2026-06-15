@@ -1,1 +1,3 @@
 First notes for C06.
+
+Second update to notes — visible in git log.
