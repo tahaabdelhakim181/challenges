@@ -1,3 +1,3 @@
 # C11
 
-Base version — both branches will modify this line.
+Change made in feature/conflict branch.
