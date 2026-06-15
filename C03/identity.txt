@@ -1,0 +1,8 @@
+Git local configuration applied:
+
+user.name  = tahaabdelhakim181
+user.email = tahaabdelhakim181@gmail.com
+
+Command used:
+  git config user.name "tahaabdelhakim181"
+  git config user.email "tahaabdelhakim181@gmail.com"
