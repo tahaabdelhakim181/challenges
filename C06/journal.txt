@@ -1,0 +1,3 @@
+Commit log practice journal.
+
+Entry 1 — first commit created.
