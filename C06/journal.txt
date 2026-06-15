@@ -3,3 +3,5 @@ Commit log practice journal.
 Entry 1 â€” first commit created.
 
 Entry 2 — second commit added to build history.
+
+Entry 3 — run git log --oneline to see all three commits.
